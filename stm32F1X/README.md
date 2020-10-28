@@ -19,6 +19,6 @@
 ## cloning examples from github
 #### git clone https://github.com/mvcorrea/Learning-Embedded-Rust
 ```shell
-> git checkout XXXXXX  // simple blink 
+> git checkout e32111a  // simple blink 
 > 
 ```
